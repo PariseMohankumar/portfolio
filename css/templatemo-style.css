@@ -310,6 +310,8 @@ h1,h2,h3,h4,h5
         height: 100%;
         position: absolute;
         padding-top: 60px;
+		padding-left: 15px;
+		padding-right: 15px;
         transition: all 0.4s ease-in-out;
     }
 #portfolio .portfolio-thumb:hover .portfolio-overlay
